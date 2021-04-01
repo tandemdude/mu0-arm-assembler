@@ -1,4 +1,4 @@
-# Simple program to convert Mu0-ARM assembly language to hexadecimal machine code
+# Simple program to convert Mu0 assembly language to hexadecimal machine code
 
 I wrote this small program because I was too lazy to manually convert a sequence of assembly instructions
 into the appropriate machine code counterpart. This probably took more time to write than it would have
